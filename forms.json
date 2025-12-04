@@ -1,0 +1,98 @@
+{
+  "user_registration": [
+    "name",
+    "email",
+    "password",
+    "confirm_password",
+    "birth_date",
+    "gender",
+    "country",
+    "terms_accepted"
+  ],
+  "invoice_generator": [
+    "client_name",
+    "client_tax_id",
+    "client_address",
+    "invoice_date",
+    "concept",
+    "quantity",
+    "unit_price",
+    "vat_percentage",
+    "discount"
+  ],
+  "hotel_airbnb_reservation": [
+    "name",
+    "email",
+    "phone",
+    "check_in_date",
+    "check_out_date",
+    "adults",
+    "children",
+    "room_type",
+    "special_requests"
+  ],
+  "satisfaction_survey": [
+    "name",
+    "rating",
+    "best_aspect",
+    "worst_aspect",
+    "would_recommend",
+    "comments"
+  ],
+  "food_delivery_order": [
+    "name",
+    "phone",
+    "address",
+    "floor_unit",
+    "food_type",
+    "dishes",
+    "extras",
+    "payment_method",
+    "kitchen_note"
+  ],
+  "quote_request": [
+    "company_name",
+    "contact_person",
+    "email",
+    "phone",
+    "service_required",
+    "approx_budget",
+    "delivery_deadline",
+    "project_description"
+  ],
+  "course_workshop_registration": [
+    "name",
+    "email",
+    "phone",
+    "current_level",
+    "chosen_course",
+    "modality",
+    "time_availability",
+    "how_did_you_hear"
+  ],
+  "technical_incident_report": [
+    "name",
+    "email",
+    "priority",
+    "problem_category",
+    "problem_description",
+    "reproduction_steps",
+    "screenshots"
+  ],
+  "contact_form_newsletter": [
+    "name",
+    "email",
+    "subject",
+    "message",
+    "accept_newsletter"
+  ],
+  "mortgage_loan_calculator": [
+    "loan_amount",
+    "term_years",
+    "annual_interest_rate",
+    "monthly_income",
+    "monthly_expenses",
+    "has_other_loans",
+    "accept_clauses"
+  ]
+}
